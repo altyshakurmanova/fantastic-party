@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+    padding:10px;
+}
+nav a{
+    color:white;
+    font-size:20px ;
+    text-align: center;
+    margin:15px;
+    padding:5px;
+}
+header {
+    border:5px double slategray;
+    padding:10px;
+}
+nav {
+    background-color: slategray;
+}
+header a{
+    color:slategray;
+    border:1px solid slategray;
+    border-radius:6px;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    text-align:center;  
+    color:slategray;
+    border-bottom:2px solid silver;
+}
+footer{
+    background-color:white ;
+}
+footer p{
+    background-color:lightslategrey;
+    color:white;
+}
+.par{
+    background-color:silver;
+    border-left:5px double grey ;
+    border-radius:10px;
+}
+h2{
+    color: lightslategray;
+}
+h2 img{
+    border:2px solid lightslategray;
+}
+.party{
+    border:2px solid gray;
+    border-radius:10px ;
+}
